@@ -5,4 +5,4 @@ Milton was the most powerful tropical cyclone to occur worldwide in 2024, and on
 
 The Hurricane Analysis and Forecast System (HAFS) is the hurricane model application of the United Forecast System (UFS), and can be coupled to an ocean and wave model to improve predictions. It became operational in 2024 under two forms (A and B).
 # How to Use
-To use the code in this directory, first run getStormTrack.ipynb to download the NHC Best Track for Milton. Next, run getHAFSASlices.ipynb to download HAFS-A atmospheric and oceanic output. After this, any other notebook in the directory can be run.
+To use the code in this directory, first run getStormTrack.ipynb to download the NHC Best Track for Milton. Next, run getHAFSASlices.ipynb to download HAFS-A atmospheric and oceanic output. After this, any other notebook in the directory can be run. Though the code was written for Milton, it can be set for other TCs by changing the user parameters.
